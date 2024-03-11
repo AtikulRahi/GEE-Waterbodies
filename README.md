@@ -1,4 +1,4 @@
-I draw feature collections of poylgons covering waterbodies
+I draw feature collections of poylgons covering waterbodies in my locality.
 
 [Water bodies screenshot](https://github.com/AtikulRahi/GEE-Waterbodies/blob/main/Water.png)
 
